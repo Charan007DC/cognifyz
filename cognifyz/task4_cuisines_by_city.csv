@@ -1,0 +1,235 @@
+City,cuisine_list,count
+Faridabad,North Indian,75
+Faridabad,Chinese,64
+Faridabad,Fast Food,47
+Faridabad,Bakery,22
+Faridabad,Mughlai,18
+Faridabad,South Indian,11
+Faridabad,Cafe,10
+Faridabad,Mithai,10
+Faridabad,Desserts,9
+Faridabad,Italian,8
+Faridabad,Raw Meats,7
+Faridabad,Street Food,7
+Faridabad,Continental,6
+Faridabad,Beverages,5
+Faridabad,Ice Cream,5
+Faridabad,Burger,4
+Faridabad,Pizza,4
+Faridabad,American,3
+Faridabad,Mexican,2
+Faridabad,Salad,2
+Faridabad,Thai,2
+Faridabad,Finger Food,1
+Faridabad,Gujarati,1
+Faridabad,Healthy Food,1
+Faridabad,Juices,1
+Faridabad,Rajasthani,1
+Ghaziabad,North Indian,9
+Ghaziabad,Fast Food,8
+Ghaziabad,Chinese,6
+Ghaziabad,Cafe,4
+Ghaziabad,Burger,3
+Ghaziabad,Desserts,3
+Ghaziabad,South Indian,3
+Ghaziabad,Bakery,2
+Ghaziabad,Mughlai,2
+Ghaziabad,Continental,1
+Ghaziabad,Ice Cream,1
+Ghaziabad,Mithai,1
+Ghaziabad,Pizza,1
+Ghaziabad,Street Food,1
+Gurgaon,North Indian,387
+Gurgaon,Chinese,260
+Gurgaon,Fast Food,186
+Gurgaon,Continental,102
+Gurgaon,Mughlai,99
+Gurgaon,Bakery,90
+Gurgaon,Italian,82
+Gurgaon,Desserts,68
+Gurgaon,Cafe,66
+Gurgaon,Street Food,55
+Gurgaon,South Indian,50
+Gurgaon,American,43
+Gurgaon,Asian,42
+Gurgaon,Pizza,39
+Gurgaon,Thai,39
+Gurgaon,Healthy Food,35
+Gurgaon,Burger,34
+Gurgaon,Mithai,30
+Gurgaon,Beverages,27
+Gurgaon,Biryani,27
+Gurgaon,Japanese,25
+Gurgaon,Salad,24
+Gurgaon,Finger Food,20
+Gurgaon,European,18
+Gurgaon,Ice Cream,15
+Gurgaon,Lebanese,14
+Gurgaon,Mexican,14
+Gurgaon,Mediterranean,12
+Gurgaon,Seafood,9
+Gurgaon,Tea,8
+Gurgaon,Bengali,6
+Gurgaon,Raw Meats,6
+Gurgaon,Juices,5
+Gurgaon,Korean,5
+Gurgaon,Lucknowi,5
+Gurgaon,Sushi,5
+Gurgaon,Hyderabadi,4
+Gurgaon,Kashmiri,4
+Gurgaon,Malaysian,4
+Gurgaon,Tibetan,4
+Gurgaon,Arabian,3
+Gurgaon,Awadhi,3
+Gurgaon,Burmese,3
+Gurgaon,Kerala,3
+Gurgaon,Portuguese,3
+Gurgaon,Rajasthani,3
+Gurgaon,Vietnamese,3
+Gurgaon,African,2
+Gurgaon,Goan,2
+Gurgaon,Greek,2
+Gurgaon,Modern Indian,2
+Gurgaon,Parsi,2
+Gurgaon,Assamese,1
+Gurgaon,Belgian,1
+Gurgaon,Bihari,1
+Gurgaon,Charcoal Grill,1
+Gurgaon,Chettinad,1
+Gurgaon,Gujarati,1
+Gurgaon,Indonesian,1
+Gurgaon,Iranian,1
+Gurgaon,Middle Eastern,1
+Gurgaon,Nepalese,1
+Gurgaon,North Eastern,1
+Gurgaon,Oriya,1
+Gurgaon,Pakistani,1
+Gurgaon,Persian,1
+Gurgaon,South American,1
+Gurgaon,Steak,1
+Gurgaon,Tex-Mex,1
+New Delhi,North Indian,1825
+New Delhi,Chinese,1295
+New Delhi,Fast Food,1015
+New Delhi,Mughlai,495
+New Delhi,Italian,357
+New Delhi,Continental,350
+New Delhi,Bakery,323
+New Delhi,Desserts,308
+New Delhi,South Indian,308
+New Delhi,Cafe,292
+New Delhi,Street Food,292
+New Delhi,Mithai,187
+New Delhi,Pizza,156
+New Delhi,Ice Cream,122
+New Delhi,American,114
+New Delhi,Thai,110
+New Delhi,Beverages,94
+New Delhi,Asian,90
+New Delhi,Burger,86
+New Delhi,Healthy Food,74
+New Delhi,Biryani,66
+New Delhi,European,65
+New Delhi,Finger Food,61
+New Delhi,Raw Meats,57
+New Delhi,Salad,49
+New Delhi,Mexican,48
+New Delhi,Japanese,46
+New Delhi,Mediterranean,38
+New Delhi,Seafood,37
+New Delhi,Lebanese,36
+New Delhi,Tibetan,22
+New Delhi,Bengali,15
+New Delhi,Hyderabadi,15
+New Delhi,Sushi,14
+New Delhi,Tea,13
+New Delhi,Kashmiri,11
+New Delhi,Malaysian,11
+New Delhi,Kerala,10
+New Delhi,Middle Eastern,9
+New Delhi,Vietnamese,9
+New Delhi,Arabian,8
+New Delhi,Juices,8
+New Delhi,Korean,8
+New Delhi,Naga,8
+New Delhi,Modern Indian,7
+New Delhi,Turkish,7
+New Delhi,Chettinad,6
+New Delhi,Maharashtrian,6
+New Delhi,Tex-Mex,6
+New Delhi,Afghani,5
+New Delhi,Bihari,5
+New Delhi,French,5
+New Delhi,Gujarati,5
+New Delhi,Goan,4
+New Delhi,Parsi,4
+New Delhi,Rajasthani,4
+New Delhi,Spanish,4
+New Delhi,Andhra,3
+New Delhi,Burmese,3
+New Delhi,Indonesian,3
+New Delhi,Moroccan,3
+New Delhi,Nepalese,3
+New Delhi,Assamese,2
+New Delhi,British,2
+New Delhi,Indian,2
+New Delhi,Lucknowi,2
+New Delhi,North Eastern,2
+New Delhi,African,1
+New Delhi,Awadhi,1
+New Delhi,Deli,1
+New Delhi,Drinks Only,1
+New Delhi,Iranian,1
+New Delhi,Mangalorean,1
+New Delhi,Oriya,1
+New Delhi,Portuguese,1
+New Delhi,Sandwich,1
+New Delhi,South American,1
+New Delhi,Sri Lankan,1
+Noida,North Indian,358
+Noida,Chinese,272
+Noida,Fast Food,187
+Noida,Mughlai,118
+Noida,Bakery,51
+Noida,Cafe,51
+Noida,Continental,51
+Noida,Italian,50
+Noida,South Indian,46
+Noida,Desserts,44
+Noida,Pizza,29
+Noida,Beverages,26
+Noida,American,24
+Noida,Street Food,24
+Noida,Mithai,22
+Noida,Healthy Food,20
+Noida,Thai,20
+Noida,Biryani,16
+Noida,Asian,14
+Noida,Burger,13
+Noida,Salad,12
+Noida,Ice Cream,10
+Noida,Mexican,10
+Noida,Raw Meats,10
+Noida,Mediterranean,9
+Noida,Tea,6
+Noida,Seafood,4
+Noida,Hyderabadi,3
+Noida,Japanese,3
+Noida,Juices,3
+Noida,Lebanese,3
+Noida,Rajasthani,3
+Noida,Bengali,2
+Noida,European,2
+Noida,Finger Food,2
+Noida,Kashmiri,2
+Noida,Sushi,2
+Noida,Tex-Mex,2
+Noida,Arabian,1
+Noida,Chettinad,1
+Noida,Iranian,1
+Noida,Korean,1
+Noida,Lucknowi,1
+Noida,Middle Eastern,1
+Noida,Parsi,1
+Noida,Spanish,1
+Noida,Tibetan,1
